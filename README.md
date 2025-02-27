@@ -8,7 +8,7 @@ Verständnis der Technologien, ohne zu sehr in die theoretischen Tiefen zu gehen
 
 ### 1. KI - was ist das? 🧠
 
-- Einfache Einführung in grundlegende Konzepte
+- Einfache Einführung in grundlegende Konzepte und einordnen der verschiedenen Begriffe
 - Anschauliche Beispiele zur linearen Regression mit praktischen Übungen
 - Klassifikationsprobleme verstehen und lösen
 - Praktische Übungen zur Evaluierung von Modellen (Accuracy, Precision, Recall)
