@@ -8,7 +8,8 @@ Verständnis der Technologien, ohne zu sehr in die theoretischen Tiefen zu gehen
 
 ### 1. KI - was ist das? 🧠
 
-- Einfache Einführung in grundlegende Konzepte und einordnen der verschiedenen Begriffe
+- Einfache Einführung in grundlegende Konzepte und einordnen der verschiedenen
+  Begriffe
 - Anschauliche Beispiele zur linearen Regression mit praktischen Übungen
 - Klassifikationsprobleme verstehen und lösen
 - Praktische Übungen zur Evaluierung von Modellen (Accuracy, Precision, Recall)
@@ -60,7 +61,11 @@ folgende Themen behandelt (nicht auf GitHub):
 ## Weiterführende Ressourcen 🔗
 
 Am Ende jedes Kapitels findest du Links zu weiterführenden Materialien, falls du
-tiefer in bestimmte Themen einsteigen möchtest.
+tiefer in bestimmte Themen einsteigen möchtest. Hier haben wir noch weitere
+Ressourcen für das Thema ML generell:
+
+- [Microsoft ML for Beginners Kurs](https://github.com/microsoft/ML-For-Beginners)
+- [Statistik Grundlagen auf YouTube](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 
 ## Mitwirken 📝
 
