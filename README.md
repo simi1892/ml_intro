@@ -50,8 +50,8 @@ Python-Umgebung. Führe folgende Schritte aus:
 
 ### 2. Lokal mit einem LLM arbeiten 💻
 
-- Setup und Konfiguration von lokalen LLMs mit Hugging Face
-- Praktische Anwendungen mit Ollama oder Deepseek
+- Setup und Konfiguration von lokalen LLMs mit Ollama
+- Praktische Anwendungen mit Ollama
 - Einfache Beispiele und Übungen
 
 ### 3. Prompt Engineering 🔍
