@@ -1,8 +1,42 @@
-# 🤖 Einführung in Machine Learning für IT-Lernende
+# Einführung in Machine Learning für IT-Lernende 🤖
 
 Dieses Repository bietet einen praxisnahen Einstieg in die Grundlagen des
 maschinellen Lernens. Es dient als Überblick und ermöglicht ein grundlegendes
 Verständnis der Technologien, ohne zu sehr in die theoretischen Tiefen zu gehen.
+
+## 🚀 Vorbereitung
+
+Um mit diesem Projekt zu arbeiten, benötigst du eine entsprechende
+Python-Umgebung. Führe folgende Schritte aus:
+
+1. **Repository klonen**
+
+   ```bash
+   git clone https://github.com/simi1892/ml_intro.git
+   cd ml_intro
+   ```
+
+2. **Virtuelle Umgebung erstellen**
+
+   Unter Windows:
+
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate
+   ```
+
+   Unter macOS/Linux:
+
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+
+3. **Abhängigkeiten installieren**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Inhalt 📋
 
