@@ -4,7 +4,7 @@ Dieses Repository bietet einen praxisnahen Einstieg in die Grundlagen des
 maschinellen Lernens. Es dient als Überblick und ermöglicht ein grundlegendes
 Verständnis der Technologien, ohne zu sehr in die theoretischen Tiefen zu gehen.
 
-## 🚀 Vorbereitung
+## Vorbereitung 🕺🏽
 
 Um mit diesem Projekt zu arbeiten, benötigst du eine entsprechende
 Python-Umgebung. Führe folgende Schritte aus:
